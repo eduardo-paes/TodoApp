@@ -1,10 +1,10 @@
 {
   "name": "todo-app",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Aplicação de teste para aprendizado do framework NestJS.",
+  "author": "Eduardo Paes",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MTI",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
